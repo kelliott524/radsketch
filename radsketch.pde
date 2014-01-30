@@ -1,3 +1,4 @@
+//hi its thursday 
 // radsketch.pde
 
 void setup() {
